@@ -25,7 +25,7 @@
 
 ### Channels
 
-- 🌐 **Website:** [gnarus-sh.github.io](https://gnarus-sh.github.io)
+- 🌐 **Website:** [gnarus.sh](https://gnarus-sh.github.io)
 - 🦊 **GitLab:**  [@gnarus-sh](https://gitlab.com/gnarus-sh) <!-- - 📺 **YouTube:** [@orbitbitshq](https://youtube.com/@orbitbitshq) -->
 <!-- - 🦋 **Bluesky:** [@orbitbits.com](https://bsky.app/profile/orbitbits.com) -->
 <!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/orbitbitshq) -->
