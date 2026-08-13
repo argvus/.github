@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gnarus-sh/gnarus-logo/refs/heads/main/svg/gnarus-banner.svg" width="540">
+  <img src="https://raw.githubusercontent.com/argvus/argvus-logo/refs/heads/main/svg/argvus-banner.svg" width="540">
 </div>
 
 **Founded:** Aug 5, 2026 &nbsp;|&nbsp;
@@ -25,10 +25,10 @@
 
 ### Channels
 
-- 🌐 **Website:** [gnarus.sh](https://gnarus-sh.github.io)
-- 🦊 **GitLab:**  [@gnarus-sh](https://gitlab.com/gnarus-sh) <!-- - 📺 **YouTube:** [@orbitbitshq](https://youtube.com/@orbitbitshq) -->
+- 🌐 **Website:** [argvus.sh](https://argvus.github.io)
+- 🦊 **GitLab:**  [@argvus](https://gitlab.com/argvus) <!-- - 📺 **YouTube:** [@orbitbitshq](https://youtube.com/@orbitbitshq) -->
 <!-- - 🦋 **Bluesky:** [@orbitbits.com](https://bsky.app/profile/orbitbits.com) -->
 <!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/orbitbitshq) -->
 
 ---
-*© GNARUS · 2026*
+*© ΛRGVUS · 2026*
