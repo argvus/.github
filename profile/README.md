@@ -31,4 +31,4 @@
 <!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/orbitbitshq) -->
 
 ---
-*© ΛRGVUS · 2026*
+*© ΛRGVUS · 2026 - Made with 💜 for the open source community*
