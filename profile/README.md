@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/argvus/argvus-logo/refs/heads/main/svg/argvus-banner.svg" width="540">
 </div>
 
-**Founded:** Aug 5, 2026 &nbsp;|&nbsp;
+**Founded:** Aug 5, 2025 &nbsp;|&nbsp;
 **Type:** Organization &nbsp;|&nbsp;
 **Area:** Technology / Development / Software
 
