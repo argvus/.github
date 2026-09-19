@@ -26,9 +26,12 @@
 ### Channels
 
 - 🌐 **Website:** [argvus.org](https://argvus.github.io)
-- 🦊 **GitLab:**  [@argvus](https://gitlab.com/argvus) <!-- - 📺 **YouTube:** [@orbitbitshq](https://youtube.com/@orbitbitshq) -->
-<!-- - 🦋 **Bluesky:** [@orbitbits.com](https://bsky.app/profile/orbitbits.com) -->
-<!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/orbitbitshq) -->
+- 🦊 **GitLab (Mirror):**  [@argvus](https://gitlab.com/argvus)
+- 💬 **Telegram Channel:** [@argvusde](https://t.me/argvusde)
+- ✉️ **Email Official:** [hello.argvus@gmail.com](hello.argvus@gmail.com)
+<!-- - 📺 **YouTube:** [@](https://youtube.com/) -->
+<!-- - 🦋 **Bluesky:** [@](https://bsky.app/profile/) -->
+<!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/) -->
 
 ---
 *© ΛRGVUS · 2026 - Made with 💜 for the open source community*
