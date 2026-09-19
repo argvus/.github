@@ -23,7 +23,7 @@
 **Area:** Technology / Development / Software
 
 
-### Channels
+### Socials
 
 - 🌐 **Website:** [argvus.org](https://argvus.github.io)
 - 🦊 **GitLab (Mirror):**  [@argvus](https://gitlab.com/argvus)
