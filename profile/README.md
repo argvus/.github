@@ -3,11 +3,11 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/48/1ABFA0/0a0a0a?text=S" width="48" height="48">
+        <img src="https://raw.githubusercontent.com/argvus/argvus-logo/refs/heads/main/svg/argvus-banner.svg" width="48">
         <br>
-        <strong>GNARUS</strong>
+        <strong>ARGVUS</strong>
         <br>
-        <sub>A complete desktop, ready to use. Focused on Hyprland.</sub>
+        <sub>A complete, ready-to-use desktop environment for Arch Linux. Focused on Hyprland.</sub>
       </td>
     </tr>
   </table>
@@ -31,7 +31,7 @@
 - ✉️ **Email Official:** [hello.argvus@gmail.com](hello.argvus@gmail.com)
 <!-- - 📺 **YouTube:** [@](https://youtube.com/) -->
 <!-- - 🦋 **Bluesky:** [@](https://bsky.app/profile/) -->
-<!-- - 𝕏 **X:**   [@orbitbitshq](https://x.com/) -->
+<!-- - 𝕏 **X:**   [@](https://x.com/) -->
 
 ---
 *© ΛRGVUS · 2026 - Made with 💜 for the open source community*
