@@ -28,6 +28,7 @@
 - 🌐 **Website:** [argvus.org](https://argvus.github.io)
 - 🦊 **GitLab (Mirror):**  [@argvus](https://gitlab.com/argvus)
 - 💬 **Telegram Channel:** [@argvusde](https://t.me/argvusde)
+- 📢 **Telegram Community - Brasil:** [@argvuscommunity](https://t.me/argvuscommunity)
 - ✉️ **Email Official:** [hello.argvus@gmail.com](hello.argvus@gmail.com)
 <!-- - 📺 **YouTube:** [@](https://youtube.com/) -->
 <!-- - 🦋 **Bluesky:** [@](https://bsky.app/profile/) -->
