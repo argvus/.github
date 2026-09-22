@@ -7,7 +7,7 @@
         <br>
         <strong>GNARUS</strong>
         <br>
-        <sub>A complete desktop, ready to use. Focused on Hyprland.</sub>
+        <sub>A modular desktop environment for Wayland and Arch Linux, built on Hyprland.</sub>
       </td>
     </tr>
   </table>
